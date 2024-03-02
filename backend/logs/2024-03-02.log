@@ -1,12 +1,12 @@
 
-Started POST /login for :: ::1 at Sat Mar 02 2024 12:40:42 GMT-0300 (hora de verano de Chile)
+Started POST /login for :: ::1 at Sat Mar 02 2024 11:40:42 GMT-0300 (hora de verano de Chile)
   Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
 Completed: 200 message:  Time response: 156 ms Request ID: [4ed6f2a9-3391-4de4-806b-5ce8d016da19]
 
-Started GET /usuarios for :: ::1 at Sat Mar 02 2024 12:40:43 GMT-0300 (hora de verano de Chile)
+Started GET /usuarios for :: ::1 at Sat Mar 02 2024 11:40:43 GMT-0300 (hora de verano de Chile)
   Parameters in body: {}
 Completed: 200 message:  Time response: 6 ms Request ID: [3e17b0d8-d956-486e-94eb-11fc7249604c]
 
-Started GET /usuarios for :: ::1 at Sat Mar 02 2024 12:40:43 GMT-0300 (hora de verano de Chile)
+Started GET /usuarios for :: ::1 at Sat Mar 02 2024 11:40:43 GMT-0300 (hora de verano de Chile)
   Parameters in body: {}
 Completed: 304 message:  Time response: 6 ms Request ID: [239858f3-6ecd-4638-925f-9cc74ee9eae1]
